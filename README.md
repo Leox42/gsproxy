@@ -74,7 +74,7 @@ sudo usermod -aG docker $USER
 
 Reboot
 
-## Install
+## Installation
 
 In the GSProxy folder:
 
@@ -98,7 +98,7 @@ sudo git clone https://gitlab.com/benedetta.gottardelli/GSProcessor.git
 install.packages("devtools")
 devtools::install('./Processor/GSProcessor') # processor source code path
 ```
-If devtools install fails, try installing the following dependencies:
+If devtools installation fails, try installing the following dependencies:
 
 Debian : 
 ``` bash 
