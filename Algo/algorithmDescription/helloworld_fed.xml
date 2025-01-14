@@ -1,0 +1,15 @@
+<xml>
+    <header>
+        <creator>Gollum</creator>
+        <creationDate>2024-06-28</creationDate>
+        <version>1.0</version>
+        <desc>hello world algorithm for federated</desc>
+        <allowedUsers>*</allowedUsers>
+        <allowedGroups>*</allowedGroups>
+    </header>
+    <data>
+        <variableType name='Input'>
+            <rule>numeric</rule>
+        </variableType>
+    </data>
+</xml>

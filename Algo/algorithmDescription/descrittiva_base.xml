@@ -1,0 +1,17 @@
+<xml>
+    <header>
+        <creator>Roberto Gatta</creator>
+        <creationDate>2022-09-07</creationDate>
+        <version>1.0</version>
+        <desc>a simple dataset description pipeline</desc>
+        <allowedUsers>*</allowedUsers>
+        <allowedGroups>*</allowedGroups>
+    </header>
+    <data>
+        <variableType name='Input'>
+            <rule>numeric</rule>
+			<rule>binary</rule>
+			<rule>categorical</rule>
+        </variableType>
+    </data>
+</xml>

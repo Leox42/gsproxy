@@ -1,0 +1,16 @@
+PROXY:
+  authhost:
+
+BLOCKCHAIN:
+  url:
+  suffix_login:
+  suffix_nota:
+  suffix_logout:
+  suffix_search:
+  hash_algorithm:
+  username:
+  password:
+  headers: {'accept':,
+            'Content-Type':}
+  sign_passphrase:
+  security_script_folder:

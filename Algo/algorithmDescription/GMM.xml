@@ -1,0 +1,15 @@
+<xml>
+    <header>
+        <creator>Roberto Gatta</creator>
+        <creationDate>2022-09-07</creationDate>
+        <version>1.0</version>
+        <desc>a kNN based clustering</desc>
+        <allowedUsers>*</allowedUsers>
+        <allowedGroups>*</allowedGroups>
+    </header>
+    <data>
+        <variableType name='Input'>
+            <rule>numeric</rule>
+        </variableType>
+    </data>
+</xml>

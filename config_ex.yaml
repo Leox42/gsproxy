@@ -1,0 +1,16 @@
+PROXY:
+  authhost: 'IP'
+
+BLOCKCHAIN:
+  url: 'BC_URL'
+  suffix_login: '/api/auth/login/'
+  suffix_nota: '/api/assets/file/'
+  suffix_logout: '/api/auth/logout/'
+  suffix_search: '/api/assets/file/search'
+  hash_algorithm: 'sha256'
+  username: 'bc_usr'
+  password: 'bc_pwd'
+  headers: {'accept': 'application/json',
+            'Content-Type': 'application/json'}
+  sign_passphrase: 'pwd'
+  security_script_folder: './Proxy/security_script/'
