@@ -1,4 +1,8 @@
 # GSProxy
+<div align="center">
+<img src="https://github.com/user-attachments/assets/c5895260-65b0-4317-817c-bfacedb020d2" alt="Example" width="500">
+</div>
+
 This repository contains the code of the Proxy Module, one of the main modules of the GEN-RWD Sandbox infrastructure (https://doi.org/10.1186/s12911-024-02549-5).
 
 # Tutorial
